@@ -32,11 +32,11 @@
 
 ## 聯絡我們
 
-- 官方網站：https://host.jetsion.com/
-- Discord 社群：https://discord.com/invite/5Fky5SEfBd
+- [官方網站](https://host.jetsion.com/)
+- [Discord 社群](https://discord.com/invite/5Fky5SEfBd)
 
 歡迎加入鑽石託管，一同體驗高效、穩定的 Minecraft 伺服器託管服務！
 
 ---
 
-> Powered by Diamond Hosting · 你的Minecraft最佳夥伴
+> Diamond Hosting 提供技術支援 · 你玩 Minecraft 的最佳夥伴

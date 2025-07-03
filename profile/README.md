@@ -40,3 +40,5 @@
 ---
 
 > Powered by Diamond Hosting · 你的Minecraft最佳夥伴
+
+![彩蛋](./鑽石owo.png)

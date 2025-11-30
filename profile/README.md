@@ -1,6 +1,5 @@
 # 鑽石託管 Diamond Hosting
 
-比你開Minecraft還便宜的託管
 
 ---
 
